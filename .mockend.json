@@ -1,32 +1,10 @@
 {
   "User": {
     "first_name": {
-      "string": [
-        "Carlos",
-        "Juan",
-        "José",
-        "Jorge",
-        "Roberto",
-        "Alberto",
-        "Carmen",
-        "María",
-        "Rosa",
-        "Ana"
-      ]
+      "string": {}
     },
     "second_name": {
-      "string": [
-        "Pérez",
-        "Villanueva",
-        "León",
-        "García",
-        "López",
-        "Salamanca",
-        "Valverde",
-        "Ferrer",
-        "Rambla",
-        "Puertolas"
-      ]
+      "string": {}
     },
     "avatarUrl": {
       "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"
@@ -36,7 +14,8 @@
         "working from home",
         "watching netflix",
         "in a meeting",
-        "running"
+        "running",
+        "cooking"
       ]
     },
     "email": {
