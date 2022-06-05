@@ -1,7 +1,32 @@
 {
   "User": {
-    "name": {
-      "regexp": "(\\b(Juan|Carlos|José|María|Roberto|Ana|Rosa|Jorge|)\\b){1}"
+    "first_name": {
+      "string": [
+        "Carlos",
+        "Juan",
+        "José",
+        "Jorge",
+        "Roberto",
+        "Alberto",
+        "Carmen",
+        "María",
+        "Rosa",
+        "Ana"
+      ]
+    },
+    "second_name": {
+      "string": [
+        "Pérez",
+        "Villanueva",
+        "León",
+        "García",
+        "López",
+        "Salamanca",
+        "Valverde",
+        "Ferrer",
+        "Rambla",
+        "Puertolas"
+      ]
     },
     "avatarUrl": {
       "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"
