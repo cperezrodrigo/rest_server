@@ -1,4 +1,5 @@
-[
+{
+    "User": [
 	{
 		"age": 77,
 		"avatarUrl": "https://i.pravatar.cc/150?u=24042",
@@ -1100,3 +1101,4 @@
 		"statusMessage": "in a meeting"
 	}
 ]
+}
