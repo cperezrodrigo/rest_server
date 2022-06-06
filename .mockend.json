@@ -7,7 +7,7 @@
         "loremWord": {}
       },
       "avatarUrl": {
-        "regexp": "/assets/pic.png"
+        "regexp": "/assets/pic\\.png"
       },
       "statusMessage": {
         "string": [
