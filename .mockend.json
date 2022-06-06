@@ -7,7 +7,7 @@
         "loremWord": {}
       },
       "avatarUrl": {
-        "regexp": "https://localhost/avapi/"
+        "regexp": "/avapi/"
       },
       "statusMessage": {
         "string": [
