@@ -7,7 +7,7 @@
         "loremWord": {}
       },
       "avatarUrl": {
-        "regexp": "https://joeschmoe.io/api/v1/"
+        "regexp": "https://joeschmoe\\.io/api/v1/"
       },
       "statusMessage": {
         "string": [
